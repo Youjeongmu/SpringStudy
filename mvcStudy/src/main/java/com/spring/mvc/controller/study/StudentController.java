@@ -16,7 +16,7 @@ import com.spring.mvc.model.study.Student;
 
 @Controller
 public class StudentController {
-	
+
 	@Autowired
 	StudentDAO studentDAO;
 	
